@@ -3,7 +3,7 @@
  Please use your API keys in AppDelegate!
 
 
-Apple documentation: 
+Apple info: 
 https://developer.apple.com/documentation/mapkit 
 
 <img width="420" alt="1" src="https://user-images.githubusercontent.com/66295015/131211828-5ef671b0-7363-48e0-9d09-e11ceaf45f3f.png">
